@@ -25,4 +25,4 @@ npm start OR expo client
 
 * It will redirect to an app named 'EXPO', If you dont have it then download it from Appstore or Playstore.
 
-##YOU'RE DONE, Thanks.
+## YOU'RE DONE, Thanks.
